@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/github/last-commit/kiwuz/Plastic-Guys?style=for-the-badge)
 
-* [BUILD](https://samszczecin-my.sharepoint.com/:f:/g/personal/27286_s_am_szczecin_pl/Epr1f33Nis1NkXUo95cwdy8BpHk4652TZr_o-YshAQyV5Q?e=jRFEMg) <br />
+* [BUILD](https://samszczecin-my.sharepoint.com/:u:/g/personal/27286_s_am_szczecin_pl/EYPdIqC4TypNtG11y2dCoxEBhkhW_gZEuHdVSSkq0zUn9Q?e=RqCtbj) <br />
 
 
 <img src = "https://user-images.githubusercontent.com/49866616/178510340-d3e4dc05-d109-4aec-9efa-d6f55a02b783.PNG" width="600" height="400" /> <br />
