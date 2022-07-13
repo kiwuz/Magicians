@@ -18,6 +18,6 @@
 
 
 ## GAMEPLAY
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lz8F1__O8mA/0.jpg)](https://www.youtube.com/watch?v=lz8F1__O8mA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L4KXfWaroYg/0.jpg)](https://www.youtube.com/watch?v=L4KXfWaroYg)
 
 
